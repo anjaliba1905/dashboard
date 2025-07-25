@@ -1,0 +1,7 @@
+Crop,Ideal_pH,Temperature_Preference_C,Season,Total_ETc_mm,Initial_ETc_mm,Development_ETc_mm,Mid_ETc_mm,Late_ETc_mm
+Wheat,6.0-7.5,15-25,Rabi,450,80,120,180,70
+Rice,5.5-6.5,20-30,Kharif,1250,200,300,550,200
+Maize,5.5-7.0,18-27,Kharif,600,100,150,250,100
+Cotton,6.0-7.5,21-30,Kharif,850,120,180,400,150
+Sugarcane,6.0-8.0,25-35,Annual,2000,250,400,1000,350
+Soybean,6.0-7.5,20-30,Kharif,550,90,130,250,80
